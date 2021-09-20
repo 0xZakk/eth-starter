@@ -6,18 +6,18 @@ Monorepo setup using:
 - theGraph
 
 
-## hardhat
+## Hardhat
 The contracts, with tests and tasks to publish new content, using Solidity Template
 
-## next
+## Next
 The UI for the website, to interact with the protocol and publish new content, using NextJS
 
-## subgraph
+## Subgraph
 The subgraph code to track new posts, using TheGraph
 
 # Commands
 
-## Shortcuts
+## Shortcuts
 ```
 yarn hardhat
 ```
@@ -28,12 +28,12 @@ yarn next
 yarn subgraph
 ```
 
-### Example: Deploy with Hardhat
+### Example: Deploy with Hardhat
 ```
 yarn hardhat deploy
 ```
 
-### Example Run NextJS in Development Mode
+### Example Run NextJS in Development Mode
 ```
 yarn next dev
 ```
